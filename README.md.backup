@@ -1,11 +1,17 @@
 # README Generator
 
-## Description
+## Your Task
 
 This application uses the Inquirer npm package to take user input from the command line and generate a fully formatted README file. Inquirer prompts are used to ask the developer about the description, installation processes, licensing info, and the contributing and testing guidelines for the given application. The developer's contact information are also collected. Once that information is gathered, the information is injected into a README.md template and written out to a file for documentation purposes.
 
 
 ## User Story
+
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -27,4 +33,4 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
-<a href="https://gfycat.com/poshbetterblackandtancoonhound">Here</a> is a demonstration of the CLI README generator application.
+<a href="">Here</a> is a demonstration of the CLI README generator application.
